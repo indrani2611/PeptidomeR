@@ -1,0 +1,26 @@
+# macOS and archive metadata
+.DS_Store
+__MACOSX/
+
+# R session and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Local configuration and secrets
+.Renviron
+
+# renv local state
+renv/library/
+renv/staging/
+renv/cache/
+
+# Deployment metadata
+rsconnect/
+
+# Logs and generated archives
+*.log
+*.zip
+
