@@ -99,12 +99,11 @@ PeptidomeR/
 
 ## Reproducibility and interpretation
 
-Each module records key settings and provides downloadable intermediate and final results. Users remain responsible for checking their study design, column assignments, transformations, and statistical assumptions before interpreting results. Do not upload identifiable, confidential, or otherwise sensitive data to a public deployment unless this is permitted by the relevant institutional and data-governance policies.
+Each module records key settings and provides downloadable intermediate and final results. Users remain responsible for checking their study design, column assignments, transformations, and statistical assumptions before interpreting results.
 
 ## Citation
 
-If you use PeptidomeR in published work, please cite the PeptidomeR publication. The complete citation can be added here when the paper is available.
-
+To be added
 ## Licence
 
 No software licence has yet been included in this repository. Add an institutionally approved licence before inviting redistribution or reuse of the source code.
