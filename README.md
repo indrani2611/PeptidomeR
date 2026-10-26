@@ -102,9 +102,9 @@ PeptidomeR/
 Each module records key settings and provides downloadable intermediate and final results. Users remain responsible for checking their study design, column assignments, transformations, and statistical assumptions before interpreting results.
 
 ## Citation
+to be added
 
-To be added
-## Licence
+## Contact
 
-No software licence has yet been included in this repository. Add an institutionally approved licence before inviting redistribution or reuse of the source code.
+indrani.bera@ucd.ie
 
